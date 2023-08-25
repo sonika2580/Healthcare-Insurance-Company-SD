@@ -39,6 +39,10 @@ The first thing we should do is to configure an environment. As we are getting t
   <li>Need to do some analysis on the past/historical data and the data are not organized properly.</li>
 </ul>
 
+### ER Diagram
+![HealthCareCompany ER](https://github.com/sonika2580/Healthcare-Insurance-Company-SD/assets/131336737/4e9c2f3c-f172-4c64-9e69-d9937f1f2d48)
+
+
 ### Technologies and Platforms to be used in this solution
 Technologies and Platforms to be used are as follows:
 <ul>
