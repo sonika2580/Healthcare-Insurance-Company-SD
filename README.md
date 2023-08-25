@@ -1,5 +1,9 @@
 # Healthcare-Insurance-Company-SD
 ## Solution:
+### Architecture:
+![AWS s3 to redshift (1)](https://github.com/sonika2580/Healthcare-Insurance-Company-SD/assets/131336737/cf174c5a-df9e-410e-be21-acdd93c00f6f)
+
+
 ### Create/Configure Ecosystem
 The first thing we should do is to configure an environment. As we are getting the data in various formats and the data are being stored in local databases or files to our AWS storage (s3 bucket), we will first need to configure our AWS ecosystem in such a way that the AWS services can be integrated with the local system so that it can read the data.
 
